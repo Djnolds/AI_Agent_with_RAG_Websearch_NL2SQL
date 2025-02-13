@@ -1,7 +1,7 @@
 langchain 
 langchain-chroma 
 pypdf 
-sentence-transformers 
+langchain-huggingface 
 langgraph 
 langchain_community 
 langchain[openai]
