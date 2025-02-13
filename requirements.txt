@@ -8,4 +8,4 @@ langchain[openai]
 langchain_openai
 python-dotenv
 tavily-python
-pymysql
+langchain_experimental
