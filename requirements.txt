@@ -4,5 +4,7 @@ pypdf
 sentence-transformers 
 langgraph 
 langchain_community 
+langchain[openai]
 langchain_openai
 python-dotenv
+tavily-python
